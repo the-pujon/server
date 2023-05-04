@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Tony Khan",
+        "photo": "https://i.ibb.co/V01J3z4/1627408485255.jpg",
+        "experience": 15,
+        "recipes": 300,
+        "likes": 2000,
+        "des": "Tony Alal Karim Khan is a Bangladeshi chef and hotelier. He has received awards and nominations as a chef. He has appeared as a celebrity cook on television shows. He is previously general manager and director of food and beverages, executive chef for Grand Sultan Tea Resort and Golf since 2013."
+    },
+    {
+        "id": 2,
+        "name": "Rashedul Hasan",
+        "photo": "https://i.ibb.co/BCxrBNJ/rashedul-hasan.png",
+        "experience": 5,
+        "recipes": 80,
+        "likes": 1400,
+        "des": "Rashedul Hasan was the first Bangladeshi-Australian who competed in MasterChef Australia, television's biggest cooking competition, and reached the top 24. "
+    },
+    {
+        "id": 3,
+        "name": "Kishwar Chowdhury",
+        "photo": "https://i.ibb.co/px3YMk8/kishwar-choudhury.png",
+        "experience": 5,
+        "recipes": 100,
+        "likes": 2000,
+        "des": "Culinary sensation Kishwar Chowdhury is the first Bangladeshi-Australian to secure the third place in the internationally renowned cooking show, MasterChef Australia. "
+    },
+    {
+        "id": 4,
+        "name": "Nayem Ashraf",
+        "photo": "https://i.ibb.co/8576ypR/nayem-ashraf.jpg",
+        "experience": 10,
+        "recipes": 200,
+        "likes": 2800,
+        "des": "Chef Nayeem and his mom would bond in the kitchen day in and day out. Whether they were filled with cheer, or stressed from a tough day, they knew they’d be able to ground themselves in the kitchen. Cooking provided a sense of peace and the kitchen quickly became a space to create memories they’d cherish forever."
+    },
+    {
+        "id": 5,
+        "name": "Nahid Osman",
+        "photo": "https://i.ibb.co/kyKJgJH/nahid-osman.jpg",
+        "experience": 7,
+        "recipes": 50,
+        "likes": 1300,
+        "des": "Combine travel with food and this is what Nahid Osman, a celebrity chef on Maasranga TV, has introduced to Bangladesh, through “Radhunir Ranna Ghor -- Ghore Bahire”. Her journey with hosting cookery shows started with Tara (a Kolkata-based TV channel) then she moved to Rtv, and finally to Maasranga, where she hosts her own show, while travelling all around Bangladesh. "
+    },
+    {
+        "id": 6,
+        "name": "Saif Hasan",
+        "photo": "https://i.ibb.co/XCcN1XN/chef-saif-hasann.jpg",
+        "experience": 5,
+        "recipes": 90,
+        "likes": 800,
+        "des": "Chef Saif Hasan is Jr. Sous Chef at Six Seasons Hotel. As a chef would be to work in favor of the organization or reputedhotel, add to its glory, recognition, and accolade by working very hard, creatively, diligently, and smartly to the best of my capabilityand ability. Learning very quickly and prepare the required recipes."
+    },
+    {
+        "id": 7,
+        "name": "Dil Afroz Sayeda",
+        "photo": "https://i.ibb.co/wKZHKMS/dil-afroz-sayda.jpg",
+        "experience": 8,
+        "recipes": 120,
+        "likes": 1400,
+        "des": "I am Dil Afroz Sayda,Working as a Culinary Chef & Founder of Saydas Kitchen. Im also baking assessor at Bangladesh Technical Education Board (BTEB). More than 12 years’ of experience in Culinary Art.As well as contributing Recipe provider on national circulated newspapers, online, print media & TV channel as a Culinary Expert."
+    },
+    {
+        "id": 8,
+        "name": "Tommy Miah",
+        "photo": "https://i.ibb.co/SBzbqNV/TTommy-miahh.jpg",
+        "experience": 25,
+        "recipes": 200,
+        "likes": 4000,
+        "des": "Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition.  He is often recognized as the Curry King in the World."
+    }
+]
